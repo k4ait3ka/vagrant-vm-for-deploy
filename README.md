@@ -45,6 +45,9 @@ vagrant destroy -f 643a6db
 ==> default: Destroying VM and associated drives...
 ```
 
+```
+Kill port in Windows
+```
 
 ```
 netstat -ano | findstr :3000
