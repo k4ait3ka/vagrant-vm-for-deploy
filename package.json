@@ -1,0 +1,19 @@
+{
+  "name": "node-project",
+  "version": "1.0.1",
+  "description": "Node V18",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k4ait3ka/vargrant-vm-for-deploy.git"
+  },
+  "author": "K4ai T3ka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/k4ait3ka/vargrant-vm-for-deploy/issues"
+  },
+  "homepage": "https://github.com/k4ait3ka/vargrant-vm-for-deploy#readme"
+}
