@@ -1,4 +1,4 @@
-# VM Deploy in VM 
+# VM Deploy with Vagrant
 
 #### Command  in Vagrant:
 
